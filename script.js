@@ -3,6 +3,8 @@
 // - media de altura dos homens 
 // - o numero de mulheres
 
+//Exercicio de Front II
+
 const todosOsDados = [];
 
 for (var i = 1; i <= 15; i++) {
